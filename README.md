@@ -3,10 +3,10 @@
 Provided by:
 JetBrains Academy
 
-#Learning outcomes
+#Learning outcomes:
 Get to know the basic syntax of Kotlin and write a simple program using variables, conditions, loops, and functions.
 
-#Stage 1/5 Chatty bot welcomes you
+#Stage 1/5 Chatty bot welcomes you:
 Teach your assistant to introduce itself in the console.
 
 *Introduction to Kotlin 
@@ -15,7 +15,7 @@ Teach your assistant to introduce itself in the console.
 *Standard output (println)
 
 
-#Stage 2/5 Print your name
+#Stage 2/5 Print your name:
 Introduce yourself to the bot.
 
 *Values and variables
@@ -28,7 +28,7 @@ Introduce yourself to the bot.
 *Standard input with Java Scanner
 
 
-#Stage 3/5 Guess the age 
+#Stage 3/5 Guess the age:
 Use your knowledge of strings and numbers to make the assistant guess your age.
 
 *Units of information
@@ -49,7 +49,7 @@ Use your knowledge of strings and numbers to make the assistant guess your age.
 *Characters
 *Working with strings
 
-#Stage 4/5 Learning numbers
+#Stage 4/5 Learning numbers:
 Your assistant is old enough to learn how to count. And you are experienced enough to apply a for loop at this stage!
 
 *If expression
@@ -57,7 +57,7 @@ Your assistant is old enough to learn how to count. And you are experienced enou
 *Ranges
 *For loop and ranges
 
-#Stage 5/5 Multiple choice
+#Stage 5/5 Multiple choice:
 At this point, the assistant will be able to check your knowledge and ask multiple-choice questions. Add some functions to your code and make the stage even better.
 
 *Declaring functions
